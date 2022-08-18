@@ -1,0 +1,44 @@
+.links{
+    margin-left: 700px;
+    font-size: 28px;
+    z-index: 2;
+}
+
+.links:hover{
+    color: #EFEFEF;
+}
+
+.but{
+    z-index: 2;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 1150px;
+    width: 161px;
+    height: 44px;
+    font-size: 24px;
+    background: #CEE8B8;
+    border: #CEE8B8;
+    border-radius: 10px ;
+}
+
+.but:hover{
+    background: #C1DEA8;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border: #C1DEA8;
+}
+
+   .on_links{
+    position: absolute;
+    margin-left: 651px;
+    top: 50px;
+    font-size: 28px;
+    z-index: 2;
+    border: 0;
+    padding: 0;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.on_links:hover{
+    color: #EFEFEF;
+}
